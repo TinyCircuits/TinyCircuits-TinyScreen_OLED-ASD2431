@@ -1,15 +1,15 @@
 # TinyCircuits TinyScreen OLED Display
-# ASD2431 Rev5
+# ASD2431 Rev6
 
-These are the design files for the TinyCircuits TinyScreen PCB.  This is a TinyShield board that includes a 96x64 Color OLED Display.  
+The design files are located under design_files/ for the TinyCircuits TinyScreen PCB Rev6.  This is a TinyShield board that includes a 96x64 Color OLED Display.  
 
 Format is in Cadsoft Eagle format - Eagle version 6.2 was used for the original design.
 
-For more infomation on this, check out the product page at Tiny-Circuits.com:  https://tiny-circuits.com/tinyshield-tinyscreen.html
+For more infomation on this, check out the product page at TinyCircuits.com: https://tinycircuits.com/collections/leds-displays/products/tinyscreen
 
 
 
-#License:
+# License:
 
 Design by TinyCircuits.
 All design files are released under the Creative Commons Attribution Share-Alike 3.0 License, see the following link for details: http://creativecommons.org/licenses/by-sa/3.0
