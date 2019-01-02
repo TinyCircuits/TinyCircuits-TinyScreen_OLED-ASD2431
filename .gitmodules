@@ -1,0 +1,3 @@
+[submodule "examples_and_library/TinyCircuits-TinyScreen_Lib"]
+	path = examples_and_library/TinyCircuits-TinyScreen_Lib
+	url = https://github.com/TinyCircuits/TinyCircuits-TinyScreen_Lib
